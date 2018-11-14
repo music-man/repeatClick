@@ -11,3 +11,6 @@
 //    }
 
 3目前针对tabbar的点击不处理
+
+4默认时间间隔是两秒 可以自行更改时间间隔
+static double interval = 2.0;
